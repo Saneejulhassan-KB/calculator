@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+@media only screen and (max-width: 600px) {
+    .buttonRow{
+        height: 50px;
+        gap: 10px;
+        display: flex;
+        
+    }
+    .calcultor{
+        margin-left: 0;
+    }
+    
+  }
